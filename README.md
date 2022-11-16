@@ -1,0 +1,2 @@
+# course-service
+Subscriber1
